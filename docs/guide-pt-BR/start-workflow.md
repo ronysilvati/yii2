@@ -28,7 +28,7 @@ O template básico de projetos instalado contém quatro páginas:
 * a página "Contact" (Contato), que exibe um formulário de contato que permite
   que usuários finais entrem em contato com você via e-mail,
 * e a página "Login", que exibe um formulário de login que pode ser usado
-  para aurenticar usuários finais. Tente fazer o login com "admin/admin", e
+  para autenticar usuários finais. Tente fazer o login com "admin/admin", e
   você perceberá que o item do menu principal "Login" mudará para "Logout".
 
 Estas páginas compartilham um cabeçalho e rodapé em comum. O cabeçalho contém
